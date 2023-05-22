@@ -26,8 +26,3 @@ curl -d '{
 }'\
      -H "Content-Type: application/json" \
      -X POST https://azmlmoyounus.azurewebsites.net:$PORT/predict 
-<<<<<<< HEAD
-     #your application name <yourappname>goes here
-=======
-     #your application name <yourappname>goes here
->>>>>>> 7b8eecff4d9c4e4b904d42361770dbdffa00e2d6
