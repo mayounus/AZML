@@ -64,7 +64,6 @@ Instructions for running the Python project.
 Implmenet autoscaling with load balancer
 
 ## Demo 
-
-<TODO: Add link Screencast on YouTube>
+https://www.youtube.com/watch?v=TVY-Lt2UKKk
 
 
