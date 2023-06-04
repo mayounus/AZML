@@ -8,4 +8,4 @@ make install
 ./make_predict_azure_app.sh
 
 #Use Locust testing tool 
-locust -f locustfile.py --headless -t 3s
+locust -f locust.py --headless -t 3s
