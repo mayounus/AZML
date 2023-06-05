@@ -4,6 +4,9 @@ source ~/.myrepo/bin/activate
 #Project scaffolding
 make install
 
+#WebApp
+az webapp up -n azmlmoyounus
+
 # Run prediction
 ./make_predict_azure_app.sh
 
