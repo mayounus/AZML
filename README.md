@@ -65,6 +65,6 @@ Implmenet autoscaling with load balancer
 
 ## Demo 
 
-https://www.youtube.com/watch?v=nrvwDyS-kCE
+https://www.youtube.com/watch?v=JDGdXQPGHYg
 
 
